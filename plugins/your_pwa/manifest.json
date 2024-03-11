@@ -1,0 +1,29 @@
+{
+  "background_color": "#ffffff",
+  "description": "¿Qué te gustaría? Comprar, Vender, Rentar, Cambiar... TODO en un solo lugar #RoloegangaVenezuela",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Roloeganga Venezuela",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Roloeganga Venezuela",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "images/48x48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "images/591x139.png",
+      "type": "image/png",
+      "sizes": "591x139"
+    },
+    {
+      "src": "images/48x48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    }
+  ]
+}
